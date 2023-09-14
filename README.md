@@ -1,6 +1,7 @@
 
-<h1 align="center"># usePostman <br>
-some API requests using Postman</h1>
+<h1 align="center"># usePostman</h1>
+<h2 align="center">
+some API requests using Postman</h2>
 
 Регистрация (Registration): 
 
